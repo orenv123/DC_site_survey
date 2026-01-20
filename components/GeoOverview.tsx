@@ -45,11 +45,11 @@ const GeoOverview: React.FC = () => {
           <div className="relative group">
             <div className="absolute -inset-4 bg-blue-100/50 rounded-2xl blur-lg group-hover:bg-blue-200/50 transition duration-500"></div>
             <div className="relative bg-white p-2 rounded-2xl shadow-2xl overflow-hidden border border-slate-200">
-               <img 
-                 src="site_survey.jpg?auto=format&fit=crop&q=80&w=1200" 
-                 alt="Tirana Industrial Landscape" 
-                 className="w-full h-80 object-cover rounded-xl"
-               />
+                      <img
+                        src="./site_survey.jpg"
+                        alt="Tirana Industrial Landscape"
+                        className="w-full h-80 object-cover rounded-xl"
+                      />
                <div className="p-6">
                  <div className="flex justify-between items-center">
                    <div>
