@@ -19,9 +19,7 @@ const Navbar: React.FC = () => {
             <a href="#geotech" className="hover:text-blue-600 transition-colors">Geotechnical</a>
             <a href="#recommendations" className="hover:text-blue-600 transition-colors">Recommendations</a>
           </div>
-          <button className="bg-blue-600 text-white px-4 py-2 rounded-md text-sm font-semibold hover:bg-blue-700 transition-colors">
-            Download PDF
-          </button>
+
         </div>
       </div>
     </nav>
