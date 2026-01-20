@@ -46,7 +46,7 @@ const GeoOverview: React.FC = () => {
             <div className="absolute -inset-4 bg-blue-100/50 rounded-2xl blur-lg group-hover:bg-blue-200/50 transition duration-500"></div>
             <div className="relative bg-white p-2 rounded-2xl shadow-2xl overflow-hidden border border-slate-200">
                <img 
-                 src="https://images.unsplash.com/photo-1590247813693-5541d1c609fd?auto=format&fit=crop&q=80&w=1200" 
+                 src="https://cms-artifacts.motionarray.com/content/motion-array/3362030/View_On_The_Tirana_Plain_Landscape_From_Kruje__Albania_high_resolution_preview_3362030.jpg?Expires=2058771656&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=0~MApmc0KNlA77~7wLY-dE--WEr9bKF~0j1B~-W~tqHzdz-mRWgEbs7fW6zOMlWnDvxDdnkiZtIOWH3mtgigOxiH012tMyjpbfhPrfvhRAuE5IPZqt5QGO1tYARA7JKnMY5Eb8sUlJVqAokE~XsHI-BxSaveLDW1vZraIawapRqROSx9bn-pD1mrjDZOk3vmoieO0XvfEBItnjiqBoYaxoJ7YsWXdu529Ex4ggKomb1E5w8OBoHX-EfIvb0Kyug2gymmuEt7ZyW5OMzkSU8obbUiuPfdmBSj0J6qStKeaXy24EtVpoEC0QMrnJ37NYsGYtzKT~wRb279Z5IfYovVxg__?auto=format&fit=crop&q=80&w=1200" 
                  alt="Tirana Industrial Landscape" 
                  className="w-full h-80 object-cover rounded-xl"
                />
